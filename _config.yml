@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuankun Xie"
-description              : "Communication University of China & Institute of Automation"
-repository               : "xieyuankun/xieyuankun.github.io"
+title                    : "Xiaopeng Wang"
+description              : "University of Chinese Academy of Sciences"
+repository               : "Fwinner-wxp/xiaopengwang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "   Yuankun Xie"
+  name             : "   Xiaopeng Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "PhD student"
+  bio              : "M.S. student"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=1KAs5egAAAAJ"
-  email            : "xieyuankun@cuc.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=Z943n-0AAAAJ&hl=zh-CN"
+  email            : "wangxiaopeng22@mails.ucas.ac.cn"
+  researchgate     : #"https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/xieyuankun"
+  github           : "https://github.com/Fwinner-wxp"
   google_plus      :
   keybase          :
   instagram        :
