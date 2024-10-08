@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Xiaopeng Wang"
 description              : "University of Chinese Academy of Sciences"
-repository               : "Fwinner-wxp/xiaopengwang.github.io"
+repository               : "WWWWxp/xiaopengwang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Fwinner-wxp"
+  github           : "https://github.com/WWWWxp"
   google_plus      :
   keybase          :
   instagram        :
